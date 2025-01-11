@@ -11,7 +11,7 @@ AutoPatch is an AI-driven tool that scans Python source code for common vulnerab
 
 ### 1. Clone the repository:
 ```bash
-git clone <URL>
+git clone https://github.com/jaiveersingh23/Autopatch/
 cd AutoPatch
 ```
 
@@ -48,6 +48,3 @@ The script will output any vulnerabilities detected and create a patched version
 
 ## License
 This project is licensed under the MIT License.
-```
-
-Just replace `<URL>` with the actual URL of your repository. This will give users a complete guide for setting up and using your project.
